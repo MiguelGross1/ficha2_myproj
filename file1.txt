@@ -9,3 +9,6 @@ Eliminei a primeira linha e escrevi esta!!
 
 
 fiz uma alteração dentro do ficheiro.
+
+
+Alterações efetuadas no branch NovaFeature
